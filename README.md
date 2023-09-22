@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Erick Elisha
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning css
-- 💞️ I’m looking to collaborate on any Html and css projects
+- 💞️ I’m looking to collaborate on any web development project projects
 - 📫 How to reach me IG @heis_erick
